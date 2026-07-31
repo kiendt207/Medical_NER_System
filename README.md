@@ -49,7 +49,7 @@ Sau khi xử lý, hệ thống trả về một cấu trúc dữ liệu JSON chu
       }
 ]
 ```
-## ⚙️ Hướng dẫn Chạy Dự án (How to run)
+## ⚙️ Hướng dẫn Chạy Dự án
 1. Tải toàn bộ mã nguồn và mở file .ipynb trên Google Colab hoặc Kaggle.
 2. Đảm bảo bật Hardware Accelerator (Trình tăng tốc phần cứng) sang GPU trong phần cài đặt môi trường (Runtime).
 3. Cài đặt các thư viện phụ thuộc.
