@@ -47,8 +47,6 @@ Sau khi xử lý, hệ thống trả về một cấu trúc dữ liệu JSON chu
         "candidates": [],
         "position": [164, 190]
       }
-    ]
-  }
 ]
 ```
 ## ⚙️ Hướng dẫn Chạy Dự án (How to run)
